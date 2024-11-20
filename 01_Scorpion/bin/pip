@@ -1,4 +1,4 @@
-#!/home/chisinau/PROIECTE/00_Scoala/02_PiscineCyber/01_Scorpion/bin/python
+#!/home/chisinau/PROIECTE/00_Scoala/02_PiscineCyber/00_Arachnida/01_Scorpion/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
