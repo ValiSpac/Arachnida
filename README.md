@@ -30,6 +30,8 @@ This project contains two programs: **Spider** and **Scorpion**.
     .gif
     .bmp
 
+---
+
 ## Scorpion: Image Metadata Extractor
 
 **Scorpion** extracts and displays metadata from image files.
