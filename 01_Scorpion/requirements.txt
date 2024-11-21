@@ -1,2 +1,2 @@
-pillow
-exif
+pillow==11.0.0
+exif==1.6.0
